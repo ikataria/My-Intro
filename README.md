@@ -6,6 +6,9 @@ Its just an small Introduction webpage in which I have placed social app icon wh
 * CSS
 * JavaScript
 
+## To-do List
+* Display Hello one by one in different languages.
+
 ## Application URL
 * www.kataria.tk
 
